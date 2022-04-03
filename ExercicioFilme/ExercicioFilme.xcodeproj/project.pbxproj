@@ -17,6 +17,13 @@
 		F723E88027F1DEEC003704C2 /* ExercicioFilmeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F723E87F27F1DEEC003704C2 /* ExercicioFilmeUITests.swift */; };
 		F723E88227F1DEEC003704C2 /* ExercicioFilmeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F723E88127F1DEEC003704C2 /* ExercicioFilmeUITestsLaunchTests.swift */; };
 		F723E89127F1E899003704C2 /* SegundaTelaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F723E89027F1E899003704C2 /* SegundaTelaViewController.swift */; };
+		F7470FFD27FA097D00669CD3 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = F7470FF827FA097D00669CD3 /* 2.png */; };
+		F7470FFE27FA097D00669CD3 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = F7470FF927FA097D00669CD3 /* 4.png */; };
+		F7470FFF27FA097D00669CD3 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = F7470FFA27FA097D00669CD3 /* 1.png */; };
+		F747100027FA097D00669CD3 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = F7470FFB27FA097D00669CD3 /* 3.png */; };
+		F747100127FA097D00669CD3 /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = F7470FFC27FA097D00669CD3 /* 0.png */; };
+		F747100327FA477700669CD3 /* DetalhesFilmeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F747100227FA477700669CD3 /* DetalhesFilmeViewController.swift */; };
+		F747100527FA4E1300669CD3 /* DetalhesFilmeCRUDE.swift in Sources */ = {isa = PBXBuildFile; fileRef = F747100427FA4E1300669CD3 /* DetalhesFilmeCRUDE.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +58,13 @@
 		F723E87F27F1DEEC003704C2 /* ExercicioFilmeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExercicioFilmeUITests.swift; sourceTree = "<group>"; };
 		F723E88127F1DEEC003704C2 /* ExercicioFilmeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExercicioFilmeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F723E89027F1E899003704C2 /* SegundaTelaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundaTelaViewController.swift; sourceTree = "<group>"; };
+		F7470FF827FA097D00669CD3 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = Assets.xcassets/2.png; sourceTree = "<group>"; };
+		F7470FF927FA097D00669CD3 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.png; path = Assets.xcassets/4.png; sourceTree = "<group>"; };
+		F7470FFA27FA097D00669CD3 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = Assets.xcassets/1.png; sourceTree = "<group>"; };
+		F7470FFB27FA097D00669CD3 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = Assets.xcassets/3.png; sourceTree = "<group>"; };
+		F7470FFC27FA097D00669CD3 /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 0.png; path = Assets.xcassets/0.png; sourceTree = "<group>"; };
+		F747100227FA477700669CD3 /* DetalhesFilmeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesFilmeViewController.swift; sourceTree = "<group>"; };
+		F747100427FA4E1300669CD3 /* DetalhesFilmeCRUDE.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesFilmeCRUDE.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +123,13 @@
 				F723E86927F1DEEC003704C2 /* LaunchScreen.storyboard */,
 				F723E86C27F1DEEC003704C2 /* Info.plist */,
 				F723E89027F1E899003704C2 /* SegundaTelaViewController.swift */,
+				F7470FFC27FA097D00669CD3 /* 0.png */,
+				F7470FFA27FA097D00669CD3 /* 1.png */,
+				F7470FF827FA097D00669CD3 /* 2.png */,
+				F7470FFB27FA097D00669CD3 /* 3.png */,
+				F7470FF927FA097D00669CD3 /* 4.png */,
+				F747100227FA477700669CD3 /* DetalhesFilmeViewController.swift */,
+				F747100427FA4E1300669CD3 /* DetalhesFilmeCRUDE.swift */,
 			);
 			path = ExercicioFilme;
 			sourceTree = "<group>";
@@ -234,8 +255,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F747100127FA097D00669CD3 /* 0.png in Resources */,
 				F723E86B27F1DEEC003704C2 /* LaunchScreen.storyboard in Resources */,
 				F723E86827F1DEEC003704C2 /* Assets.xcassets in Resources */,
+				F7470FFD27FA097D00669CD3 /* 2.png in Resources */,
+				F7470FFF27FA097D00669CD3 /* 1.png in Resources */,
+				F7470FFE27FA097D00669CD3 /* 4.png in Resources */,
+				F747100027FA097D00669CD3 /* 3.png in Resources */,
 				F723E86627F1DEEC003704C2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,7 +288,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F723E86327F1DEEC003704C2 /* ViewController.swift in Sources */,
+				F747100527FA4E1300669CD3 /* DetalhesFilmeCRUDE.swift in Sources */,
 				F723E85F27F1DEEC003704C2 /* AppDelegate.swift in Sources */,
+				F747100327FA477700669CD3 /* DetalhesFilmeViewController.swift in Sources */,
 				F723E89127F1E899003704C2 /* SegundaTelaViewController.swift in Sources */,
 				F723E86127F1DEEC003704C2 /* SceneDelegate.swift in Sources */,
 			);
